@@ -9,5 +9,5 @@ Updates on Emensta's Community Discord server that you can join via https://emen
 
 
 In development together with:
-[@ASP-29(https://github.com/ASP-29) - creator of the algorithm
+[@ASP-29](https://github.com/ASP-29) - creator of the algorithm
 I focus on adding physical use (screen&buttons to navigate), aswell as thewwebservers design
