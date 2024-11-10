@@ -12,4 +12,4 @@ In development together with:
 [@ASP-29](https://github.com/ASP-29) - creator of the algorithm.
 
 
-I focus on adding physical use (screen&buttons to navigate), aswell as thewwebservers design
+I focus on adding physical use (screen&buttons to navigate), aswell as the webservers design
