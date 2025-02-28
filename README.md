@@ -31,7 +31,6 @@ WiFiX-DualBand-Deauther is a powerful tool that allows you to perform deauthenti
   <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther/edit/main/README.md#gallery">Gallery</a>
     <span> | </span>
   <a href="https://emensta.pages.dev">Website</a>
-    <span> | </span>
 </h4>
 
 ---
