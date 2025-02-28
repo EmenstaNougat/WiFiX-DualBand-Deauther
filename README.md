@@ -7,7 +7,32 @@ WiFiX-DualBand-Deauther is a powerful tool that allows you to perform deauthenti
 
 ---
 
-SOON
+<div align="center">
+  <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther" title="Go to GitHub repo">
+    <img src="https://img.shields.io/static/v1?label=EmenstaNougat&message=WiFiX-DualBand-Deauther&color=purple&logo=github" alt="EmenstaNougat - WiFiX-DualBand-Deauther">
+  </a>
+  <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther">
+    <img src="https://img.shields.io/github/stars/EmenstaNougat/WiFiX-DualBand-Deauther?style=social" alt="stars - WiFiX-DualBand-Deauther">
+  </a>
+  <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther">
+    <img src="https://img.shields.io/github/forks/EmenstaNougat/WiFiX-DualBand-Deauther?style=social" alt="forks - WiFiX-DualBand-Deauther">
+  </a>
+</div>
+
+<h4 align="center">
+  <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther/edit/main/README.md#make-your-own">Make your own</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther/edit/main/README.md#pinout">Pinout</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther/edit/main/README.md#pcbs">PCB's</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther/edit/main/README.md#flashing-the-firmware">Flashing</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#about-the-esp32-bluejammer-and-my-source-code">Gallery</a>
+    <span> | </span>
+  <a href="https://emensta.pages.dev">Website</a>
+    <span> | </span>
+</h4>
 
 ---
 
@@ -27,7 +52,7 @@ A deauther is a device that sends deauthentication frames to disconnect devices 
 
 ---
 
-## How to Make Your Own
+## Make Your Own
 To build your own WiFiX-DualBand-Deauther, you will need:
 
 ### Required Components:
@@ -45,7 +70,7 @@ To build your own WiFiX-DualBand-Deauther, you will need:
 
 ---
 
-## Hardware Connections
+## Pinout
 
 ### OLED
 | OLED Pin | ESP32 |
@@ -120,6 +145,16 @@ Dedicated PCB designs will be available for a clean and efficient build. More de
 [Shop](https://datechlabs.com/products/dual-band-deauther)
 
 A second PCB design is in development and will be available soon.
+
+---
+
+## Gallery
+<img src="https://github.com/user-attachments/assets/270fe269-201d-4162-a045-4e02e53d3783" width="300" alt="bw16">
+<img src="https://github.com/user-attachments/assets/83f304ba-0141-4dc7-a261-4d84cd23e7db" width="300" alt="esp32">
+<img src="https://github.com/user-attachments/assets/036cb4d9-6322-4ea6-a47e-bd146b275d3d" width="300" alt="oled">
+<img src="https://github.com/user-attachments/assets/9448de7a-5a7c-4dde-963f-0d3183fc7300" width="300" alt="tactile">
+<img src="https://github.com/user-attachments/assets/2fc4a46b-0265-4288-b6b7-d2a7dd5a0cb5" width="300" alt="switch">
+<img src="https://github.com/user-attachments/assets/824a3bf3-d030-4281-917f-e5d1a83e326d" width="300" alt="tp4056">
 
 ---
 
