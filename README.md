@@ -28,7 +28,7 @@ WiFiX-DualBand-Deauther is a powerful tool that allows you to perform deauthenti
     <span> | </span>
   <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther/edit/main/README.md#flashing-the-firmware">Flashing</a>
     <span> | </span>
-  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#about-the-esp32-bluejammer-and-my-source-code">Gallery</a>
+  <a href="https://github.com/EmenstaNougat/WiFiX-DualBand-Deauther/edit/main/README.md#gallery">Gallery</a>
     <span> | </span>
   <a href="https://emensta.pages.dev">Website</a>
     <span> | </span>
