@@ -65,6 +65,7 @@ To build your own WiFiX-DualBand-Deauther, you will need:
 - **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**
 - **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**
 - **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_oCqORHE)**
+- **[Mini DC-DC Step-Up-Converter](https://s.click.aliexpress.com/e/_oC9i9Mm)
 - **[Mini Slide Switch](https://s.click.aliexpress.com/e/_ooC8DXh)**
 
 ---
