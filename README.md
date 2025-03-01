@@ -96,13 +96,15 @@ To build your own WiFiX-DualBand-Deauther, you will need:
 | GND      | GND      |
 
 ### Charging Circuit
-| 3.7V Li-Ion Battery | JST-PH2 Connector | TP4056 Charging Module | Mini Slide Switch | ESP32 |
-|---------------------|-------------------|------------------------|-------------------|-------|
-| (+) Battery         | (+) JST-PH2       | Bat +                  |                   |       |
-| (-) Battery         | (-) JST-PH2       | Bat -                  |                   |       |
-|                     |                   | OUT +                  | Switch in         |       |
-|                     |                   | OUT -                  |                   | GND   |
-|                     |                   |                        | Switch out        | 3V3   |
+| 3.7V Li-Ion Battery | JST-PH2 Connector | TP4056 Charging Module | Mini Slide Switch | Step-Up Converter | ESP32 |
+|---------------------|-------------------|------------------------|-------------------|--------------------|-------|
+| (+) Battery         | (+) JST-PH2       | Bat +                  |                   |                    |       |
+| (-) Battery         | (-) JST-PH2       | Bat -                  |                   |                    |       |
+|                     |                   | OUT +                  | Switch in         |                    |       |
+|                     |                   | OUT -                  |                   | IN -               |       |
+|                     |                   |                        | Switch out        | IN +               |       |
+|                     |                   |                        |                   | OUT +              | 5V    |
+|                     |                   |                        |                   | OUT -              | GND   |
 
 ---
 
@@ -148,6 +150,9 @@ The WiFiX-DualBand-Deauther comes with an intuitive menu system that provides ea
   - BEACON  
   - START  
 
+### Webserver
+After powering the device, an AP will appear called "WiFiX32", the password to access it is "exploit32".
+Thanks to this you will be able to control it by using a web interface.
 
 ---
 
