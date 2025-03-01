@@ -124,12 +124,30 @@ I've created a webflasher to make it super easy for you to flash your ESP32 chip
 
 ---
 
-## How to Use
-1. Power on the device.
-2. Navigate through the interface using the buttons.
-3. Select the target WiFi band (2.4GHz, 5.8GHz, or both).
-4. Start the deauth attack.
-5. Monitor activity via the OLED display or serial output.
+## Functions
+The WiFiX-DualBand-Deauther comes with an intuitive menu system that provides easy navigation through its core functions.
+
+### Main Menu:
+- **SCAN**  
+  - [BACK]  
+  - SCAN APs 2.4GHz  
+  - SCAN APs 5GHz  
+  - SCAN Stations  
+  - SCAN AP 2.4GHz + ST  
+
+- **SELECT**  
+  - [BACK]  
+  - APs 2.4GHz  
+  - APs 5GHz  
+  - Stations  
+  - SSIDs  
+
+- **ATTACK**  
+  - [BACK]  
+  - DEAUTH  
+  - BEACON  
+  - START  
+
 
 ---
 
