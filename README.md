@@ -112,6 +112,11 @@ To build your own WiFiX-DualBand-Deauther, you will need:
 ## Flashing the Firmware
 The firmware for WiFiX-DualBand-Deauther can be installed using two different methods:
 
+### via WiFiX-Flasher (Easy)
+Simply download the WiFiX-Flasher from the repository files and run the "WiFiX-Flasher-RUN_THIS.bat" file.
+It will list all connected COM ports and give you the instruction and choise on which chip you want to flash.
+Please remember to first flash your ESP32, then replug the wire physically and redo the process for the BW16 board!
+
 ### via webflasher (Easy)  - SOON
 ![WiFiX-DualBand-DeautherFlasher]()                                                                 
 I've created a webflasher to make it super easy for you to flash your ESP32 chip with the ESP32-BlueJammer firmware of your choice!  
