@@ -81,12 +81,12 @@ To build your own WiFiX-DualBand-Deauther, you will need:
 | GND      | GND      |
 
 ### Buttons
-| Button | ESP32 |
-|--------|----------|
-| UP     | GPIO25   |
-| DOWN   | GPIO26   |
-| BACK   | GPIO33   |
-| SELECT | GPIO32   |
+| Button |  ESP32 |ESP32|
+|--------|----------|---|
+| UP     | GPIO25   |GND|
+| DOWN   | GPIO26   |GND|
+| BACK   | GPIO33   |GND|
+| SELECT | GPIO32   |GND|
 
 ### BW16
 | BW16 Pin | ESP32 |
