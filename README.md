@@ -160,6 +160,8 @@ The WiFiX-DualBand-Deauther comes with an intuitive menu system that provides ea
 After powering the device, an AP will appear called "WiFiX32", the password to access it is "exploit32".
 Thanks to this you will be able to control it by using a web interface.
 
+Open a browser of your choice and visit 192.168.1.1 (standard - you can change all settings!)
+
 ---
 
 ## PCBs
