@@ -1,5 +1,5 @@
 @echo off
-title WifiX32 Flasher
+title WifiX Flasher V1.1
 
 :: Menampilkan daftar COM port yang tersedia
 echo List:
