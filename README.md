@@ -153,8 +153,18 @@ The WiFiX-DualBand-Deauther comes with an intuitive menu system that provides ea
 - **ATTACK**  
   - [BACK]  
   - DEAUTH  
-  - BEACON  
+  - BEACON
+  - BEACON RANDOM
   - START  
+
+- **TOOL**
+  - [BACK]  
+  - DEAUTH DETECTOR
+  - FIND HIDDEN SSID
+
+- **LOG**
+
+
 
 ### Webserver
 After powering the device, an AP will appear called "WiFiX32", the password to access it is "exploit32".
