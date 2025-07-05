@@ -51,7 +51,49 @@ A deauther is a device that sends deauthentication frames to disconnect devices 
 
 ---
 
+## PCBs
+**WiFiX DIY-PCB:**
+The WiFiX DIY-PCB includes both, ESP32 and RTL8720DN to allow penetration testing for educational purposes
+***Remember: It is not intended for illegal use!***  
+For this one, all you need is listed below:  
+
+**Required:**  
+- **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins, 38P required!)  
+- **[BW16 KIT RTL8720DN](https://s.click.aliexpress.com/e/_ondvS0G)** (With IPEX Back Weld)  
+- **[1.3" OLED Display I2C](https://s.click.aliexpress.com/e/_oCf86GU)**  
+- **[Tactile Tact Push Button](https://s.click.aliexpress.com/e/_olyNfXm)**  (4x)
+- **[Slide switch](https://s.click.aliexpress.com/e/_oCWSw1m)**  
+- **[U.FL IPEX connectors](https://s.click.aliexpress.com/e/_oDI7wAg)**  (2x)
+- **[RP-SMA connector](https://s.click.aliexpress.com/e/_oBf57zE)**  (2x)
+- **[U.FL IPEX pigtail](https://s.click.aliexpress.com/e/_omo2PsC)**  (2x)
+- **[2,4 GHz & 5,8 GHz 8 dBi antennas](https://de.aliexpress.com/item/1005007604245337.html?spm=a2g0o.order_list.order_list_main.472.137a5c5f2vaDC5&gatewayAdapt=glo2deu)**  
+- **[LED: 3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**  
+- **[Resistor kit](https://s.click.aliexpress.com/e/_oCoJ7LO)**  
+- R1 = 1kOhm  
+- R4, R6 = 100kOhm  
+- R5, R7 = 47kOhm  
+
+**Additional:**  
+- **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_oCqORHE)**
+- **[Mini DC-DC Boost Module](https://s.click.aliexpress.com/e/_opgdAlA)**  
+- **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**  
+- **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**  
+![image](https://github.com/user-attachments/assets/75ab31a4-5552-49e1-8523-fa6a6f52e033)
+[Shop](https://www.elecrow.com/wifix-diy-pcb.html)
+
+---
+**[WiFiX-DualBand-Deauther PCB v1:](https://datechlabs.com/products/dual-band-deauther)**
+
+<img src="https://dwdwpld.pages.dev/datechdeauther.jpg" width="400px">
+
+[Shop](https://datechlabs.com/products/dual-band-deauther)
+
+A second PCB design is in development and will be available soon.
+
+---
+
 ## Make Your Own
+(Aliexpress affilate links to support me-linked to the item names)
 To build your own WiFiX-DualBand-Deauther, you will need:
 
 ### Required Components:
@@ -174,19 +216,6 @@ Open a browser of your choice and visit 192.168.1.1 (standard - you can change a
 
 ---
 
-## PCBs
-Dedicated PCB designs will be available for a clean and efficient build. More details will be provided soon.
-
-### Available PCB:
-**[WiFiX-DualBand-Deauther PCB v1:](https://datechlabs.com/products/dual-band-deauther)**
-
-<img src="https://dwdwpld.pages.dev/datechdeauther.jpg" width="400px">
-
-[Shop](https://datechlabs.com/products/dual-band-deauther)
-
-A second PCB design is in development and will be available soon.
-
----
 
 ## Gallery
 <img src="https://github.com/user-attachments/assets/270fe269-201d-4162-a045-4e02e53d3783" width="300" alt="bw16">
