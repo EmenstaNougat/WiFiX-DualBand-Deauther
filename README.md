@@ -78,7 +78,7 @@ For this one, all you need is listed below:
 - **[Mini DC-DC Boost Module](https://s.click.aliexpress.com/e/_opgdAlA)**  
 - **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**  
 - **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**  
-![image](https://github.com/user-attachments/assets/75ab31a4-5552-49e1-8523-fa6a6f52e033)
+![image](https://github.com/user-attachments/assets/75ab31a4-5552-49e1-8523-fa6a6f52e033)  
 [Shop](https://www.elecrow.com/wifix-diy-pcb.html)
 
 ---
