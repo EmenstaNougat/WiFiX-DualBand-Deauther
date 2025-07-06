@@ -53,7 +53,7 @@ A deauther is a device that sends deauthentication frames to disconnect devices 
 
 ## PCBs
 **WiFiX DIY-PCB:**
-The WiFiX DIY-PCB includes both, ESP32 and RTL8720DN to allow penetration testing for educational purposes  
+The WiFiX DIY-PCB includes both, ESP32 and RTL8720DN to allow penetration testing for educational purposes!  
 ***Remember: It is not intended for illegal use!***  
 For this one, all you need is listed below:  
 
@@ -82,7 +82,8 @@ For this one, all you need is listed below:
 [Shop](https://www.elecrow.com/wifix-diy-pcb.html)
 
 ---
-**[WiFiX-DualBand-Deauther PCB v1:](https://datechlabs.com/products/dual-band-deauther)**
+**[WiFiX-DualBand-Deauther PCB v1:](https://datechlabs.com/products/dual-band-deauther)**  
+***Remember: It is not intended for illegal use!***  
 
 <img src="https://dwdwpld.pages.dev/datechdeauther.jpg" width="400px">
 
