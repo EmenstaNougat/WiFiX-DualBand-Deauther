@@ -66,7 +66,7 @@ For this one, all you need is listed below:
 - **[U.FL IPEX connectors](https://s.click.aliexpress.com/e/_oDI7wAg)**  (2x)
 - **[RP-SMA connector](https://s.click.aliexpress.com/e/_oBf57zE)**  (2x)
 - **[U.FL IPEX pigtail](https://s.click.aliexpress.com/e/_omo2PsC)**  (2x)
-- **[2,4 GHz & 5,8 GHz 8 dBi antennas](https://de.aliexpress.com/item/1005007604245337.html?spm=a2g0o.order_list.order_list_main.472.137a5c5f2vaDC5&gatewayAdapt=glo2deu)**  
+- **[2,4 GHz & 5,8 GHz 8 dBi antennas](https://de.aliexpress.com/item/1005007604245337.html?spm=a2g0o.order_list.order_list_main.472.137a5c5f2vaDC5&gatewayAdapt=glo2deu)**  (2x)
 - **[LED: 3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**  
 - **[Resistor kit](https://s.click.aliexpress.com/e/_oCoJ7LO)**  
 - R1 = 1kOhm  
