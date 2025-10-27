@@ -101,7 +101,7 @@ To build your own WiFiX-DualBand-Deauther, you will need:
 - **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**)
 - **[RTL8720DN BW16](https://s.click.aliexpress.com/e/_opN49fI)**
 - **[1.3" OLED I2C 128x64](https://s.click.aliexpress.com/e/_omwHHSU)**
-- **[4x Mini Tactile Buttons](https://s.click.aliexpress.com/e/_olGwH5i)**
+- **[4x Mini Tactile Buttons](https://s.click.aliexpress.com/e/_c3vkYten)**
 - **[Prototype PCB](https://s.click.aliexpress.com/e/_oBtd18j)**
 
 ### If you're looking to add a battery:
