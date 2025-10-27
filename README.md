@@ -62,7 +62,7 @@ For this one, all you need is listed below:
 - **[BW16 KIT RTL8720DN](https://s.click.aliexpress.com/e/_ondvS0G)** (With IPEX Back Weld)  
 - **[1.3" OLED Display I2C](https://s.click.aliexpress.com/e/_oCf86GU)**  
 - **[Tactile Tact Push Button](https://s.click.aliexpress.com/e/_olyNfXm)**  (4x)
-- **[Slide switch](https://s.click.aliexpress.com/e/_oCWSw1m)**  
+- **[Slide switch](https://s.click.aliexpress.com/e/_c4eQKm5D)**  
 - **[U.FL IPEX connectors](https://s.click.aliexpress.com/e/_oDI7wAg)**  (2x)
 - **[RP-SMA connector](https://s.click.aliexpress.com/e/_oBf57zE)**  (2x)
 - **[U.FL IPEX pigtail](https://s.click.aliexpress.com/e/_omo2PsC)**  (2x)
